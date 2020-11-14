@@ -30,3 +30,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arose-niazi&show_icons=true&locale=en" alt="arose-niazi" /></p>
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5](https://github.com/Arose-Niazi/Operating-System/issues/5) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
+2. 🎉 Merged PR [#4](https://github.com/Arose-Niazi/DCCN/pull/4) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+3. ❗️ Closed issue [#2](https://github.com/Arose-Niazi/DCCN/issues/2) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+4. 💪 Opened PR [#4](https://github.com/Arose-Niazi/DCCN/pull/4) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+5. ❗️ Opened issue [#3](https://github.com/Arose-Niazi/DCCN/issues/3) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+<!--END_SECTION:activity-->
+</details>
