@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -48,3 +48,4 @@
 
 [MM]: https://mm-ftw.net
 [linkedin]: https://www.linkedin.com/in/arose-k-a6463bbb/
+[gmail]: mailto:niazi.arose@gmail.com
