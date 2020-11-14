@@ -2,14 +2,14 @@
 
 ## I'm a Student, Developer and Community owner!!
 
-- 🔭 My Community: [Mini Missions <img align="left" alt="mm-ftw.net" width="22px" src="https://github.com/Arose-Niazi/Arose-Niazi/blob/main/mm.png?raw=true" />!][MM]!
+- My Community: [Mini Missions <img align="left" alt="mm-ftw.net" width="22px" src="https://github.com/Arose-Niazi/Arose-Niazi/blob/main/mm.png?raw=true" />!][MM]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn flutter
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Arose Niazi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Arose Niazi | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
