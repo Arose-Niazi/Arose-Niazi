@@ -1,9 +1,5 @@
-### Hi there, I'm Arose 👋
-
-## I'm a Student, Developer and Community owner!!
-
 <h1 align="center">Hi 👋, I'm Arose Nazi</h1>
-<h3 align="center">Learning new skills!</h3>
+<h3 align="center">I'm a Student, Developer and Community owner!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arose-niazi&label=Profile%20views&color=0e75b6&style=flat" alt="arose-niazi" /> </p>
 
