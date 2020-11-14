@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-    ![Arose Niazi's Stats](https://github-readme-stats.vercel.app/api?username=Arose-Niazi&count_private=true&show_icons=true)
+![Arose Niazi's Stats](https://github-readme-stats.vercel.app/api?username=Arose-Niazi&count_private=true&show_icons=true)
 
 </details>
 
