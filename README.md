@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Community owner!!
 
-- 🔭 My Community: [Mini Missions <img align="left" alt="mm-ftw.net" width="22px" src="linkToMn" />!][MM]!
+- 🔭 My Community: [Mini Missions <img align="left" alt="mm-ftw.net" width="22px" src="https://github.com/Arose-Niazi/Arose-Niazi/blob/main/mm.png?raw=true" />!][MM]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn flutter
 - ⚡ Fun fact: I love to draw and play guitar / drums
