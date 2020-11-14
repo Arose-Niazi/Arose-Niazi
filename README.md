@@ -2,7 +2,6 @@
 
 ## I'm a Student, Developer and Community owner!!
 
-- My Community: [Mini Missions <img align="left" alt="mm-ftw.net" width="22px" src="https://github.com/Arose-Niazi/Arose-Niazi/blob/main/mm.png?raw=true" />!][MM]!
 <h1 align="center">Hi 👋, I'm Arose Nazi</h1>
 <h3 align="center">Learning new skills!</h3>
 
