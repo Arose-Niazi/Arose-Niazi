@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arose-niazi&show_icons=true&locale=en" alt="arose-niazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arose-niazi&count_private=true&show_icons=true&locale=en" alt="arose-niazi" /></p>
 
 ---
 
