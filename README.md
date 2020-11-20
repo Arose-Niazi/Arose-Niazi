@@ -43,6 +43,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="40" height="40"/> </a>  
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.tcl.tk/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tcl/tcl-icon.svg" alt="tcl" width="40" height="40"/> </a>
   <a href="https://github.com/pawn-lang" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/35569887?s=200&v=4" alt="tcl" width="40" height="40"/> </a>
