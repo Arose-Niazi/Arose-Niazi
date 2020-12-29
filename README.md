@@ -59,10 +59,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Arose-Niazi/DCCN/issues/6) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-2. 🎉 Merged PR [#7](https://github.com/Arose-Niazi/DCCN/pull/7) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-3. 💪 Opened PR [#7](https://github.com/Arose-Niazi/DCCN/pull/7) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-4. ❗️ Opened issue [#6](https://github.com/Arose-Niazi/DCCN/issues/6) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-5. 🎉 Merged PR [#5](https://github.com/Arose-Niazi/DCCN/pull/5) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+1. ❗️ Opened issue [#10](https://github.com/Arose-Niazi/DCCN/issues/10) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+2. 🎉 Merged PR [#9](https://github.com/Arose-Niazi/Operating-System/pull/9) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
+3. ❗️ Closed issue [#8](https://github.com/Arose-Niazi/Operating-System/issues/8) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
+4. 💪 Opened PR [#9](https://github.com/Arose-Niazi/Operating-System/pull/9) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
+5. ❗️ Opened issue [#8](https://github.com/Arose-Niazi/Operating-System/issues/8) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
 <!--END_SECTION:activity-->
 </details>
