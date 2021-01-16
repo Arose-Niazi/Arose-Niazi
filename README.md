@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Arose Nazi</h1>
+<h1 align="center">Hi, I'm Arose Nazi</h1>
 <h3 align="center">I'm a Student, Developer and Community owner!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arose-niazi&label=Profile%20views&color=0e75b6&style=flat" alt="arose-niazi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
 
-- 🔭 I’m currently working on **multiple projects**
+## Goals for 2021
+- Flutter
+- Django
+- Laravel
+- NodeJS
+- MongoDB
+- VueJS
+- Machine Learning for recommendation systems to work with web.
 
-- 🌱 I’m currently learning **flutter and python**
+## My Community 
+- https://mm-ftw.net
 
-- My Community [<img align="left" alt="mm-ftw.net" width="22px" src="https://github.com/Arose-Niazi/Arose-Niazi/blob/main/mm.png?raw=true" />!](https://mm-ftw.net)
+## Connect with me
+- https://dev.to/aroseniazi
+- https://www.linkedin.com/in/arose-k-a6463bbb/
 
-- 📫 How to reach me **niazi.arose@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aroseniazi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aroseniazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arose khan niazi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arose khan niazi" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools:
 ### Languages
@@ -29,15 +32,18 @@
 - Python
 - Dart
 - HTML5 / CSS3
-- Flutter (Basics Only)
 - Bash
 - TCL
+
+### Application
+- Flutter (Basics Only)
 
 ### Web
 - Bootstrap
 - CanvasJS
 - CodeIgniter
 - Materialize
+- Native Python through API's. 
 
 ### Database
 - MariaDB
@@ -57,6 +63,7 @@
 - Google Colabs
 - Jupter Notebook
 - Anaconda
+- Microsoft Word / Excel / PowerPoint / Access / Visio
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
 
