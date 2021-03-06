@@ -75,10 +75,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-2. 💪 Opened PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-3. 🎉 Merged PR [#11](https://github.com/Arose-Niazi/DCCN/pull/11) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-4. 💪 Opened PR [#11](https://github.com/Arose-Niazi/DCCN/pull/11) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-5. 🎉 Merged PR [#13](https://github.com/Arose-Niazi/Operating-System/pull/13) in [Arose-Niazi/Operating-System](https://github.com/Arose-Niazi/Operating-System)
+1. ❗️ Closed issue [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
+2. 🗣 Commented on [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
+3. 🎉 Merged PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+4. 💪 Opened PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+5. 🎉 Merged PR [#11](https://github.com/Arose-Niazi/DCCN/pull/11) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
 <!--END_SECTION:activity-->
 </details>
