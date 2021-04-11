@@ -75,10 +75,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
-2. 🗣 Commented on [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
-3. 🎉 Merged PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-4. 💪 Opened PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-5. 🎉 Merged PR [#11](https://github.com/Arose-Niazi/DCCN/pull/11) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+1. 💪 Opened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S1-LAB/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S1-LAB](https://github.com/MuhammadNouman-22/FA18-BSE-078-S1-LAB)
+2. ❗️ Closed issue [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
+3. 🗣 Commented on [#1](https://github.com/Arose-Niazi/Arose-Niazi/issues/1) in [Arose-Niazi/Arose-Niazi](https://github.com/Arose-Niazi/Arose-Niazi)
+4. 🎉 Merged PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+5. 💪 Opened PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
 <!--END_SECTION:activity-->
 </details>
