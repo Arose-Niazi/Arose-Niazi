@@ -75,10 +75,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Arose-Niazi/Sky-Shooter/pull/1) in [Arose-Niazi/Sky-Shooter](https://github.com/Arose-Niazi/Sky-Shooter)
-2. 💪 Opened PR [#1](https://github.com/Arose-Niazi/Sky-Shooter/pull/1) in [Arose-Niazi/Sky-Shooter](https://github.com/Arose-Niazi/Sky-Shooter)
-3. 💪 Opened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S1-LAB/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S1-LAB](https://github.com/MuhammadNouman-22/FA18-BSE-078-S1-LAB)
-4. 🎉 Merged PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
-5. 💪 Opened PR [#12](https://github.com/Arose-Niazi/DCCN/pull/12) in [Arose-Niazi/DCCN](https://github.com/Arose-Niazi/DCCN)
+1. 💪 Opened PR [#2](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/2) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
+2. ❌ Reopened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
+3. ❌ Closed PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
+4. 💪 Opened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
+5. 🎉 Merged PR [#1](https://github.com/Arose-Niazi/Sky-Shooter/pull/1) in [Arose-Niazi/Sky-Shooter](https://github.com/Arose-Niazi/Sky-Shooter)
 <!--END_SECTION:activity-->
 </details>
