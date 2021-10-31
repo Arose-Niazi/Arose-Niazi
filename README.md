@@ -9,7 +9,6 @@
 - Flutter
 - Django
 - Laravel
-- NodeJS
 - MongoDB
 - VueJS
 - Machine Learning for recommendation systems to work with web.
@@ -44,6 +43,8 @@
 - CodeIgniter
 - Materialize
 - Native Python through API's. 
+- NodeJS
+- ReactJS
 
 ### Database
 - MariaDB
