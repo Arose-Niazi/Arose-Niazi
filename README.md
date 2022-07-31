@@ -3,65 +3,32 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
 
-## Goals for 2021
-- Flutter
-- Django
-- Laravel
-- MongoDB
-- VueJS
-- Machine Learning for recommendation systems to work with web.
-
 ## My Community 
 - https://mm-ftw.net
 
 ## Connect with me
-- https://dev.to/aroseniazi
-- https://www.linkedin.com/in/arose-k-a6463bbb/
+- https://www.linkedin.com/in/arose-niazi-58596b240
 
 
 ## Languages and Tools:
 ### Languages
+- JavaScript / NodeJS / ReactJS
+- PHP
 - Java
 - Pawn
-- PHP
-- JavaScript
-- C / C++
 - Python
-- Dart
-- HTML5 / CSS3
-- Bash
-- TCL
-
-### Application
-- Flutter (Basics Only)
-
-### Web
-- Bootstrap
-- CanvasJS
-- CodeIgniter
-- Materialize
-- Native Python through API's. 
-- NodeJS
-- ReactJS
 
 ### Database
-- MariaDB
-- MySQL
-- Microsoft SQL Server
-- Sqlite
+- MariaDB / MySQL
 - Firebase 
 
 
 ### Other Tools / Technologies 
 - Git
-- Adobe Illustrator
 - Ubuntu
-- Kubuntu
-- CPanel
+- Plesk / CPanel
 - Phpmyadmin
-- Google Colabs
-- Jupter Notebook
-- Anaconda
+- Google Colabs / Jupyter Notebook
 - Microsoft Word / Excel / PowerPoint / Access / Visio
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
