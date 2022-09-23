@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Arose Nazi</h1>
-<h3 align="center">I'm a Student, Developer and Community owner!!</h3>
+<h3 align="center">I'm a Developer, eh a software engineer to be precise</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
+
+## My Startup
+- https://eastdevs.com/
+
+## Currently Working at
+- https://eatingapp.co.uk/
 
 ## My Community 
 - https://mm-ftw.net
@@ -21,16 +27,20 @@
 
 ### Database
 - MariaDB / MySQL
+- Postgres
+- MongoDB
 - Firebase 
-
 
 ### Other Tools / Technologies 
 - Git
+- Docker
+- Amazon Web Services (AWS)
 - Ubuntu
 - Plesk / CPanel
 - Phpmyadmin
 - Google Colabs / Jupyter Notebook
 - Microsoft Word / Excel / PowerPoint / Access / Visio
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
 
