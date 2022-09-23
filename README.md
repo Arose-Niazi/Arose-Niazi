@@ -35,6 +35,7 @@
 - Git
 - Docker
 - Amazon Web Services (AWS)
+- Ngnix / Apache
 - Ubuntu
 - Plesk / CPanel
 - Phpmyadmin
