@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arose Nazi</h1>
+<h1 align="center">Hi, I'm Arose Niazi</h1>
 <h3 align="center">I'm a Developer, eh a software engineer to be precise</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
