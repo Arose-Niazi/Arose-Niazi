@@ -3,44 +3,58 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
 
-## My Startup
-- https://eastdevs.com/
 
-## Currently Working at
-- https://eatingapp.co.uk/
-
-## My Community 
-- https://mm-ftw.net
+## Upwork
+- https://www.upwork.com/freelancers/arosen2
 
 ## Connect with me
 - https://www.linkedin.com/in/arose-niazi-58596b240
 
 
-## Languages and Tools:
-### Languages
-- JavaScript / NodeJS / ReactJS
-- PHP
-- Java
-- Pawn
-- C#
-- Python
+## **Languages & Technologies**
 
-### Database
-- MariaDB / MySQL
-- Postgres
-- MongoDB
-- Firebase 
+### **Programming Languages**
 
-### Other Tools / Technologies 
-- Git
-- Docker
-- Amazon Web Services (AWS)
-- Ngnix / Apache
-- Ubuntu
-- Plesk / CPanel
-- Phpmyadmin
-- Google Colabs / Jupyter Notebook
-- Microsoft Word / Excel / PowerPoint / Access / Visio
+* **Python** (Flask, FastAPI, Django REST)
+* **JavaScript / TypeScript** (Node.js, Express.js, Nest.js)
+* **SQL** (T-SQL, PL/pgSQL, MySQL, PostgreSQL)
+* **Bash / Shell** (Scripting for automation and orchestration)
+
+### **Data & Cloud Engineering**
+
+* **ETL / Data Pipelines**: Azure Data Factory | AWS Glue | Google Cloud Dataflow | Databricks (Notebooks, PySpark, Delta Lake)
+* **Big Data Processing**: Apache Spark | Dask | Hadoop | Kafka | Amazon Kinesis
+* **Data Integration**: APIs (REST/GraphQL/webhooks) | JSON/XML | NetSuite | Shopify
+* **Data Warehousing & Lakes**: Snowflake | Redshift | BigQuery | Azure Synapse | S3 | Data Lake Gen2
+
+### **DevOps & Infrastructure**
+
+* **Cloud Platforms**:
+
+  * **Azure**: App Service | Azure Functions | Data Factory | Blob Storage | Cosmos DB | AKS
+  * **AWS**: EC2 | Lambda | S3 | RDS | ECS/EKS | DynamoDB
+  * **GCP**: Cloud Functions | Cloud Run | Cloud SQL | Firestore | GKE
+* **Containerization & Orchestration**: Docker (Docker Compose) | Kubernetes (AKS | GKE | OpenShift)
+* **CI/CD & IaC**: GitHub Actions | Terraform | Azure DevOps | GitLab CI/CD
+* **Monitoring & Observability**: Prometheus | Grafana | ELK Stack | Cloud-native logging & alerting
+
+### **Web Development**
+
+* **Frontend**: React.js | Redux | Material UI | TailwindCSS
+* **Backend**: Python (FastAPI, Flask, Django) | Node.js (Express.js, Nest.js)
+* **Full-Stack Architecture**: REST/GraphQL APIs | Microservices | Serverless
+
+### **Database Systems**
+
+* **Relational**: PostgreSQL | MySQL | Microsoft SQL Server | Azure SQL
+* **NoSQL**: MongoDB | DynamoDB | Redis | Cosmos DB
+* **Database Tools**: phpMyAdmin | pgAdmin | Azure Data Studio
+
+### **Other Tools & Platforms**
+
+* **Version Control**: Git | GitHub | GitLab | Bitbucket
+* **Server Management**: Ubuntu | Nginx | Apache | Plesk | cPanel
+* **Project & Document Tools**: Jira | Confluence | Microsoft Word, Excel, PowerPoint, Access, Visio
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arose-niazi&show_icons=true&locale=en&layout=compact" alt="arose-niazi" /></p>
