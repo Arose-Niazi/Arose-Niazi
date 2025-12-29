@@ -7,8 +7,6 @@
 ## Upwork
 - https://www.upwork.com/freelancers/arosen2
 
-## Connect with me
-- https://www.linkedin.com/in/arose-niazi-58596b240
 
 
 ## **Languages & Technologies**
