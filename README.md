@@ -1,56 +1,74 @@
-<h1 align="center">Hi, I'm Arose Niazi</h1>
-<h3 align="center">I'm a Developer, eh a software engineer to be precise</h3>
+<h1 align="center">Muhammad Arose Sibram Khan</h1>
+<h3 align="center">Senior Data Engineer · Lead AI Engineer</h3>
+<p align="center">I build production ETL/ELT platforms on Azure, AWS and GCP — and the GenAI systems that sit on top of them.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
+<p align="center">
+  <a href="https://arose-niazi.me">Portfolio</a> ·
+  <a href="https://arose-niazi.me/arose-resume.pdf">Résumé</a> ·
+  <a href="https://www.upwork.com/freelancers/arosen2">Upwork</a> ·
+  <a href="mailto:niazi.arose@gmail.com">niazi.arose@gmail.com</a>
+</p>
 
+---
 
-## Upwork
-- https://www.upwork.com/freelancers/arosen2
+## What I'm doing now
 
+| Role | Where | Since |
+|---|---|---|
+| **Lead AI Engineer** | Luminor Partners — Cincinnati, OH (remote) | Mar 2026 |
+| **Data Engineer** (contract) | Rextag Corp — Delaware, USA (remote) | Mar 2026 |
+| **Cloud & Data Engineering Lead** | ZigTech Solutions — Ohio, USA (remote) | Feb 2025 |
+| **Software Developer** (contract) | Fawkes Games — Bulgaria (remote) | Mar 2023 |
+| **Freelance Senior Data Engineer** | Upwork — Top Rated Plus | 2020 |
 
+6+ years, 50+ delivered projects, 90%+ repeat client rate. Based in Lahore, Pakistan; working remotely across US/EU timezones.
 
-## **Languages & Technologies**
+## What I actually do
 
-### **Programming Languages**
+**Data platforms.** Azure Data Factory, Databricks/PySpark, Snowflake and hand-rolled Python ETL moving millions of records a day into warehouses that reporting teams can trust. CDC, SCD Type 2, star schemas, historical snapshotting, cost optimisation.
 
-* **Python** (Flask, FastAPI, Django REST)
-* **JavaScript / TypeScript** (Node.js, Express.js, Nest.js)
-* **SQL** (T-SQL, PL/pgSQL, MySQL, PostgreSQL)
-* **Bash / Shell** (Scripting for automation and orchestration)
+**GenAI on top of that data.** Production LLM/RAG applications on Amazon Bedrock — including an LLM-to-SQL analytics platform that lets non-technical users ask questions in English and get live dashboards back, with read-only execution, deterministic SQL linting and per-tenant row-level security.
 
-### **Data & Cloud Engineering**
+**The integrations nobody wants to touch.** NetSuite (SuiteQL/SuiteTalk, OAuth1 & OAuth2), Shopify REST/GraphQL, Toast POS, HubSpot, ApparelMagic, UKG, Stripe, Twilio.
 
-* **ETL / Data Pipelines**: Azure Data Factory | AWS Glue | Google Cloud Dataflow | Databricks (Notebooks, PySpark, Delta Lake)
-* **Big Data Processing**: Apache Spark | Dask | Hadoop | Kafka | Amazon Kinesis
-* **Data Integration**: APIs (REST/GraphQL/webhooks) | JSON/XML | NetSuite | Shopify
-* **Data Warehousing & Lakes**: Snowflake | Redshift | BigQuery | Azure Synapse | S3 | Data Lake Gen2
+**Everything around it.** Full-stack apps (FastAPI, React, Node.js, NestJS, Django), infrastructure as code (Terraform, Docker, Kubernetes), CI/CD, and servers I run myself on AWS, Azure, Hetzner, DigitalOcean and OVH.
 
-### **DevOps & Infrastructure**
+## Selected work
 
-* **Cloud Platforms**:
+| Project | What it is |
+|---|---|
+| **AI Dashboard Runner** | Multi-tenant LLM-to-SQL platform (FastAPI + React, Bedrock/Claude) turning plain-English prompts into live dashboards, with JWT/Entra SSO and a remote MCP connector |
+| **Pink Chicken** | 50+ ADF pipelines ingesting millions of e-commerce records daily from Shopify + ApparelMagic into SQL Server and Power BI |
+| **Apex Healthcare** | NetSuite → PostgreSQL/Parquet financial warehouse on AWS; executive KPI dashboards via Athena and Tableau |
+| **NYCT Fleet Maintenance** | 10-step Python ETL with custom CDC, syncing mission-critical transit data off legacy SQL without stressing production |
+| **Palmetto** | AirOne + NetSuite + UKG consolidated into Azure Data Lake with historical snapshotting for C-level analytics |
+| **[Mini Missions](https://mm-ftw.net)** | GTA:SA multiplayer server running since 2008 — 456 missions, full economy, anti-cheat, PHP site, Discord bot. Handed to the community, still online |
+| **[SE Tools](https://se-tools.arose-niazi.me)** | 17 step-by-step calculators and simulators for numerical computing, networks and OS courses |
 
-  * **Azure**: App Service | Azure Functions | Data Factory | Blob Storage | Cosmos DB | AKS
-  * **AWS**: EC2 | Lambda | S3 | RDS | ECS/EKS | DynamoDB
-  * **GCP**: Cloud Functions | Cloud Run | Cloud SQL | Firestore | GKE
-* **Containerization & Orchestration**: Docker (Docker Compose) | Kubernetes (AKS | GKE | OpenShift)
-* **CI/CD & IaC**: GitHub Actions | Terraform | Azure DevOps | GitLab CI/CD
-* **Monitoring & Observability**: Prometheus | Grafana | ELK Stack | Cloud-native logging & alerting
+More detail, including case studies, on [arose-niazi.me](https://arose-niazi.me).
 
-### **Web Development**
+## Public repos worth a look
 
-* **Frontend**: React.js | Redux | Material UI | TailwindCSS
-* **Backend**: Python (FastAPI, Flask, Django) | Node.js (Express.js, Nest.js)
-* **Full-Stack Architecture**: REST/GraphQL APIs | Microservices | Serverless
+- [**claude-knowledge-base-template**](https://github.com/Arose-Niazi/claude-knowledge-base-template) — a second brain for AI-assisted engineering: raw sources, refined current truth, and a dated changelog of every change and its why
+- [**claude-remote-controller**](https://github.com/Arose-Niazi/claude-remote-controller) — drive Claude Code sessions remotely
+- [**se-tools**](https://github.com/Arose-Niazi/se-tools) — the course tools suite above, one repo per tool via submodules
 
-### **Database Systems**
+Most of my client and platform work lives in private repos.
 
-* **Relational**: PostgreSQL | MySQL | Microsoft SQL Server | Azure SQL
-* **NoSQL**: MongoDB | DynamoDB | Redis | Cosmos DB
-* **Database Tools**: phpMyAdmin | pgAdmin | Azure Data Studio
+## Toolbox
 
-### **Other Tools & Platforms**
+**Cloud & data** — Azure (ADF, Synapse, Functions, Key Vault) · AWS (Lambda, S3, Athena, Glue, Redshift, ECS/EKS, Bedrock) · GCP (BigQuery) · Snowflake · Databricks (PySpark)
 
-* **Version Control**: Git | GitHub | GitLab | Bitbucket
-* **Server Management**: Ubuntu | Nginx | Apache | Plesk | cPanel
-* **Project & Document Tools**: Jira | Confluence | Microsoft Word, Excel, PowerPoint, Access, Visio
+**AI & GenAI** — LLM application development · RAG · Amazon Bedrock · Claude · LLM-to-SQL · prompt engineering · MCP (Model Context Protocol) · multi-tenant row-level security
 
+**ETL/ELT & orchestration** — Azure Data Factory · dbt · Apache Spark · custom Python ETL · CDC / SCD Type 2 · Docker · Kubernetes · Terraform · CI/CD (Jenkins, GitHub Actions)
+
+**Languages & databases** — Python (Pandas, SQLAlchemy, Boto3) · T-SQL · PL/pgSQL · Snowflake SQL · SuiteQL · TypeScript/JavaScript · Bash · PostgreSQL · MySQL · Azure SQL · Amazon RDS · MongoDB · Redis
+
+**Full-stack & reporting** — FastAPI · Flask · Django · React · Next.js · Node.js · NestJS · Strapi · Prisma · Power BI · Tableau
+
+**Infrastructure** — AWS · Azure · Hetzner · DigitalOcean · OVH — server setup, warehouse deployment, cost optimisation
+
+---
+
+<p align="center"><i>Open to remote data engineering and AI engineering work. The fastest way to reach me is <a href="mailto:niazi.arose@gmail.com">email</a>.</i></p>
