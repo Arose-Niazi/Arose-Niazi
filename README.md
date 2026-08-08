@@ -11,17 +11,11 @@
 
 ---
 
-## What I'm doing now
+## Worked with
 
-| Role | Where | Since |
-|---|---|---|
-| **Lead AI Engineer** | Luminor Partners — Cincinnati, OH (remote) | Mar 2026 |
-| **Data Engineer** (contract) | Rextag Corp — Delaware, USA (remote) | Mar 2026 |
-| **Cloud & Data Engineering Lead** | ZigTech Solutions — Ohio, USA (remote) | Feb 2025 |
-| **Software Developer** (contract) | Fawkes Games — Bulgaria (remote) | Mar 2023 |
-| **Freelance Senior Data Engineer** | Upwork — Top Rated Plus | 2020 |
+Luminor Partners · Rextag Corp · ZigTech Solutions · Helpicon AB · Legateca · ExpertFlow · Eating App · RESI HOP — plus 50+ clients on Upwork, where I'm Top Rated Plus.
 
-6+ years, 50+ delivered projects, 90%+ repeat client rate. Based in Lahore, Pakistan; working remotely across US/EU timezones.
+These days I lead AI engineering on a production LLM/RAG venture and own cloud & data engineering for enterprise clients. 6+ years, 50+ delivered projects, 90%+ repeat client rate. Based in Lahore, Pakistan; working remotely across US/EU timezones.
 
 ## What I actually do
 
