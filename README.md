@@ -29,13 +29,36 @@ These days I lead AI engineering on a production LLM/RAG venture and own cloud &
 
 ## Selected work
 
+### AI & GenAI
+
 | Project | What it is |
 |---|---|
-| **AI Dashboard Runner** | Multi-tenant LLM-to-SQL platform (FastAPI + React, Bedrock/Claude) turning plain-English prompts into live dashboards, with JWT/Entra SSO and a remote MCP connector |
+| **AI Dashboard Runner** | Multi-tenant LLM-to-SQL platform (FastAPI + React on Bedrock/Claude) that turns plain-English prompts into live dashboards — read-only execution, deterministic SQL linting, per-tenant row-level security, JWT + Entra SSO, and a remote MCP connector for programmatic access |
+| **GMI Intake** | AI-driven automation of a mentorship programme's application intake — LLM extraction and review in place of manual data entry, feeding AI-supported dashboards |
+
+### Data platforms
+
+| Project | What it is |
+|---|---|
+| **RASA Floors** | Flooring retailer's analytics platform. SQL Server warehouse (1.2M invoices / 6.5M line items) fed by four independent pipelines — POS/SQLite, an OData property API covering 245K properties, SharePoint AR + inventory, and CRM — plus a FastAPI/React reporting app with 18 report pages, Power BI feeds, and a nightly read-replica serving the AI runner |
+| **Rextag** | Energy pipeline-capacity platform. FERC, EIA and EPA filings into on-prem SQL Server via Azure Data Factory over a self-hosted integration runtime, with T-SQL aggregation procedures and a registry tracking the proc, pipeline and trigger keeping every table fresh |
 | **Pink Chicken** | 50+ ADF pipelines ingesting millions of e-commerce records daily from Shopify + ApparelMagic into SQL Server and Power BI |
 | **Apex Healthcare** | NetSuite → PostgreSQL/Parquet financial warehouse on AWS; executive KPI dashboards via Athena and Tableau |
-| **NYCT Fleet Maintenance** | 10-step Python ETL with custom CDC, syncing mission-critical transit data off legacy SQL without stressing production |
 | **Palmetto** | AirOne + NetSuite + UKG consolidated into Azure Data Lake with historical snapshotting for C-level analytics |
+| **NYCT Fleet Maintenance** | 10-step Python ETL with custom CDC, syncing mission-critical transit data off legacy SQL without stressing production |
+
+### Platforms & internal tools
+
+| Project | What it is |
+|---|---|
+| **Global Mentorship Initiative** | Azure + self-hosted platform for a mentorship non-profit: central SSO service, staff matching portal, a form builder with public renderer, HubSpot sync, WordPress session extraction over an SSH tunnel, and Azure Functions/SQL data-quality reporting — six domains behind nginx/PM2 with automated certificates |
+| **North Main Motors** | Dealership management backend (Express 5 + Prisma + PostgreSQL). Python ETL out of the DMS, then automated booking sheets that generate the debit/credit accounting lines for every deal, plus commission plans and funding-source, subprime and year-over-year retail reporting |
+| **BPI Portal** | Construction project management platform (Node/React) with JWT auth, multi-phase job tracking and modular REST APIs |
+
+### Personal
+
+| Project | What it is |
+|---|---|
 | **[Mini Missions](https://mm-ftw.net)** | GTA:SA multiplayer server running since 2008 — 456 missions, full economy, anti-cheat, PHP site, Discord bot. Handed to the community, still online |
 | **[SE Tools](https://se-tools.arose-niazi.me)** | 17 step-by-step calculators and simulators for numerical computing, networks and OS courses |
 
